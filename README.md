@@ -49,6 +49,8 @@ pip3 install -r requirements.txt
 
 python3 cloudip.py
 
+# NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
+
 # Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
 # Scanning Target
