@@ -14,7 +14,7 @@ echo
 echo =====================================================
 figlet "Extrak File"
 echo
-unrar x Cloud-IP.rar Cloud-IP
+unrar x Cloud-IP.rar CloudIP
 echo
 echo =====================================================
 figlet "Hapus File"
