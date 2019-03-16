@@ -40,7 +40,7 @@ python cloudip.py -h
 
 pkg update & upgrade
 
-pkg install git
+pkg install git tor -y
 
 # Download Cloud-IP Via Github
 
@@ -61,6 +61,10 @@ chmod +x cloudip.py
 pip3 install -r requirements.txt
 
 python3 cloudip.py -h
+
+# run tor
+
+tor
 
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
 
