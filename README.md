@@ -52,7 +52,7 @@ chmod +x CloudIP.sh
 
 ./CloudIP.sh
 
-# Tunngu Download CloudIP selesai Okeh...
+# Tunngu Download CloudIP Selesai Okeh...
 
 cd CloudIP 
 
@@ -62,7 +62,7 @@ pip3 install -r requirements.txt
 
 python3 cloudip.py -h
 
-# run tor
+# Run tor
 
 tor
 
@@ -77,7 +77,7 @@ Termux Log-in Cpanel Target
 ===============================================================================
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/D4aZLruS7Nk
 
 My Website    : http://hackingforlive.cf , https://hackingforlive.wordpress.com
 
