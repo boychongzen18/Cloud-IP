@@ -23,7 +23,7 @@ chmod 777 cloudip.py
 
 pip install -r requirements.txt
 
-python cloudip.py
+python cloudip.py -h
 
 # Tampilan Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
@@ -60,7 +60,7 @@ chmod +x cloudip.py
 
 pip3 install -r requirements.txt
 
-python3 cloudip.py
+python3 cloudip.py -h
 
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
 
