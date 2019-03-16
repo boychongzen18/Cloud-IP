@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 python cloudip.py
 
-# Windows
+# Tampilan Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
 # Scanning Target
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/scanning-target.png)
@@ -64,7 +64,7 @@ python3 cloudip.py
 
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
 
-Tampilan Termux
+Tampilan Via Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
 Termux Scanning Target
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-scanning.jpg)
@@ -87,6 +87,3 @@ MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
 
 
 # Regard Boychongzen aka Xroot
-
-
-
