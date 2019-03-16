@@ -21,7 +21,7 @@ figlet "Hapus File"
 echo 
 rm Cloud-IP.rar
 echo
-figlet "Regard"
+figlet "Ready Tools"
 echo =====================================================
 echo
 echo
