@@ -7,11 +7,11 @@ echo "Cloud-IP Downloading GoogleDrive......"
 echo
 wget ' https://drive.google.com/uc?id=1QhdSCLmWvx4hdgfqm_4FRdgbnOoBSbP-&export=download' -O Cloud-IP.rar
 echo
-echo "extracting file ........"
+echo "Extrak File Rar........"
 echo
 unrar x Cloud-IP.rar Cloud-IP
 echo
-echo " Deleted Fie Rar...... "
+echo " Deleted File Rar...... "
 echo
 rm Cloud-IP.rar
 echo 
