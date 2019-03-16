@@ -18,7 +18,7 @@ rm Cloud-IP.rar
 echo
 figlet "Pindah Folder.."
 echo 
-mv Cloud-IP $HOME
+mv CloudIP $HOME
 echo
 figlet "Regard"
 figlet "Boychongzen"
