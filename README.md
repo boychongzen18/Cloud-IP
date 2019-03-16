@@ -1,6 +1,6 @@
 # Download & Install Cloud-IP Windows & Termux Working
 
-Cara Eksekusi di Windows :
+# Cara Eksekusi di Windows :
 
 Download Python : https://shortid.co/bFWBm
 
@@ -27,7 +27,7 @@ python cloudip.py
 
 ==============================================================================
 
-Cara Eksekusi di Termux :
+# Cara Eksekusi di Termux :
 
 pkg update & upgrade
 
