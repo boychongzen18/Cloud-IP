@@ -31,7 +31,7 @@ python cloudip.py
 
 pkg update & upgrade
 
-pkg install git wget python unrar 
+pkg install git
 
 # Download Cloud-IP Via Github
 
