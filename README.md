@@ -69,7 +69,7 @@ tor
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
 
 # Tampilan Via Termux
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/Termux-Tampilan.jpg)
 # Termux Run Tor
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/Termux-Tor.jpg)
 # Termux Scanning Target
