@@ -9,7 +9,7 @@ choco install unrar
 choco install wget
 
 
-# Download Cloud-IP via GoogleDrive
+# Download Cloud-IP Via GoogleDrive
 
 wget -O Cloud-IP.rar https://drive.google.com/uc?id=1QhdSCLmWvx4hdgfqm_4FRdgbnOoBSbP-&export=download
 
@@ -33,15 +33,21 @@ pkg update & upgrade
 
 pkg install git wget python unrar 
 
-# Download Cloud-IP via GoogleDrive
+# Download Cloud-IP Via Github
 
-wget -O Cloud-IP.rar https://drive.google.com/uc?id=1QhdSCLmWvx4hdgfqm_4FRdgbnOoBSbP-&export=download
-
-unrar x Cloud-IP.rar Cloud-IP
-
-rm Cloud-IP.rar
+git clone https://github.com/boychongzen18/Cloud-IP.git
 
 cd Cloud-IP
+
+chmod +x CloudIP.sh
+
+./CloudIP.sh
+
+# Tunngu Download CloudIP selesai Okeh...
+
+cd ..
+ 
+cd Cloud-IP 
 
 chmod +x cloudip.py
 
