@@ -2,23 +2,37 @@
 
 pkg install wget python unrar figlet -y
 echo
+echo =====================================================
 figlet "Cloud-IP" 
 figlet "Download"
 figlet "GoogleDrive"
 figlet "Sukses Cuks"
+echo =====================================================
 echo
 wget 'https://drive.google.com/uc?id=1QhdSCLmWvx4hdgfqm_4FRdgbnOoBSbP-&export=download' -O Cloud-IP.rar
 echo
+echo =====================================================
 figlet "Extrak File"
 echo
 unrar x Cloud-IP.rar
 echo
+echo =====================================================
 figlet "Hapus File"
 echo 
 rm Cloud-IP.rar
 echo
 figlet "Regard"
-figlet "Boychongzen"
-figlet "aka"
-figlet "Xroot"
+echo =====================================================
 echo
+echo
+echo
+figlet "Regard"
+echo =====================================================
+figlet "Boychongzen"
+echo =====================================================
+figlet "aka"
+echo =====================================================
+figlet "Xroot"
+echo =====================================================
+echo
+echo =====================================================
