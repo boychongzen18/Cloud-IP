@@ -25,8 +25,17 @@ pip install -r requirements.txt
 
 python cloudip.py
 
+# Windows
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
+# Scanning Target
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/scanning-target.png)
+# Setting Tor Browser
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/setting-tor-browser.png)
+# Website Target
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/target.png)
+# Log-in Target
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/log-in.png)
 ==============================================================================
-
 # Cara Eksekusi di Termux :
 
 pkg update & upgrade
@@ -54,14 +63,14 @@ pip3 install -r requirements.txt
 python3 cloudip.py
 
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
-
-# Windows
+==============================================================================
+Tampilan Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
-# Scanning Target
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/scanning-target.png)
-# Setting Tor Browser
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/setting-tor-browser.png)
-# Website Target
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/target.png)
-# Log-in Target
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/log-in.png)
+Termux Scanning Target
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-scanning.jpg)
+Termux Log-in Cpanel Target
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-target.jpg)
+==============================================================================
+
+
+
