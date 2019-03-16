@@ -65,7 +65,7 @@ python3 cloudip.py
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
 
 Tampilan Via Termux
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
+![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux.jpg)
 Termux Scanning Target
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-scanning.jpg)
 Termux Log-in Cpanel Target
