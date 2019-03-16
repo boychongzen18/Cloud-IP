@@ -63,14 +63,30 @@ pip3 install -r requirements.txt
 python3 cloudip.py
 
 # NB : Khusus Termux klau gk bisa pip3 install -r requirements.txt,,bisa pakai pip install -r requirements.txt
-==============================================================================
+
 Tampilan Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/tampilan.png)
 Termux Scanning Target
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-scanning.jpg)
 Termux Log-in Cpanel Target
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-target.jpg)
-==============================================================================
+===============================================================================
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+
+Link Tutorial : 
+
+My Website    : http://hackingforlive.cf , https://hackingforlive.wordpress.com
+
+My Facebok    : https://web.facebook.com/xroot.xroot.7
+
+MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
+
+===============================================================================
+
+# Moto : Berbagi Itu Indah
+
+
+# Regard Boychongzen aka Xroot
 
 
 
