@@ -45,9 +45,7 @@ chmod +x CloudIP.sh
 
 # Tunngu Download CloudIP selesai Okeh...
 
-cd ..
- 
-cd Cloud-IP 
+cd CloudIP 
 
 chmod +x cloudip.py
 
