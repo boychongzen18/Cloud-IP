@@ -1,19 +1,27 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-pkg update && pkg upgrade
-pkg install -y wget python unrar figlet
+pkg install wget python unrar figlet -y
 echo
-echo "Cloud-IP Downloading GoogleDrive......"
+figlet "Cloud-IP" 
+figlet "Downloading"
+figlet "GoogleDrive......"
 echo
-wget ' https://drive.google.com/uc?id=1QhdSCLmWvx4hdgfqm_4FRdgbnOoBSbP-&export=download' -O Cloud-IP.rar
+wget 'https://drive.google.com/uc?id=1QhdSCLmWvx4hdgfqm_4FRdgbnOoBSbP-&export=download' -O Cloud-IP.rar
 echo
-echo "Extrak File Rar........"
+figlet "Extrak File...."
 echo
-unrar x Cloud-IP.rar Cloud-IP
+unrar x Cloud-IP.rar
 echo
-echo " Deleted File Rar...... "
+figlet "Deleted File... "
 echo
 rm Cloud-IP.rar
+echo
+figlet "Pindah Folder.."
 echo 
 mv Cloud-IP $HOME
+echo
+figlet "Regard"
+figlet "Boychongzen"
+figlet "aka"
+figlet "Xroot"
 echo
