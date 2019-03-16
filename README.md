@@ -72,8 +72,6 @@ tor
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/Termux-Tampilan.jpg)
 # Termux Run Tor
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/Termux-Tor.jpg)
-# Termux Scanning Target
-![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/Termux-Tampilan.jpg)
 # Termux Log-in Cpanel Target
 ![be](https://raw.githubusercontent.com/boychongzen18/Cloud-IP/master/termux-target.jpg)
 ===============================================================================
