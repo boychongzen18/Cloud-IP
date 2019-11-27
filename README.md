@@ -2,7 +2,7 @@
 
 # Cara Eksekusi di Windows :
 
-Download Python : https://shortid.co/bFWBm
+Download Python : https://www.python.org/downloads
 
 choco install unrar
 
